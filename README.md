@@ -1,3 +1,4 @@
+![logo](https://github.com/AjayDubey04/AjayDubey04/blob/main/Black%20and%20White%20Modern%20Accountant%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ajay Dubey</h1>
 <h3 align="center">A passionate Automation Tester from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
